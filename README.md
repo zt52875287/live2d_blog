@@ -3,6 +3,7 @@
 最近打算自己搭个博客，这个是从网上扒来的live2d看板，参考了
 
 https://github.com/galnetwen/Live2D 
+
 https://github.com/xb2016/poster-girl-l2d-2233
 
 的源码，先调整好了，到时候直接用进去。
