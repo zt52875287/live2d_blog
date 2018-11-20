@@ -1,8 +1,10 @@
 # live2d_blog
 
 最近打算自己搭个博客，这个是从网上扒来的live2d看板，参考了
+
 https://github.com/galnetwen/Live2D 
 https://github.com/xb2016/poster-girl-l2d-2233
+
 的源码，先调整好了，到时候直接用进去。
 1. 网上有大神用php写了切换模型、贴图的接口、插件，奈何洒家玩不转，所以自己用js写了一下切换模型，切换贴图的方法。 *缺点是每套贴图需要对应新建一个model.json* 模型信息需写入model_master.json
 2. 参考[猫与向日葵](https://imjad.cn/archives/lab/add-dynamic-poster-girl-with-live2d-to-your-blog-01)大佬，提供的拆包方法，从药水制作师游戏中给pio扒了80套衣服。
