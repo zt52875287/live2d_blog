@@ -1,6 +1,6 @@
 # live2d_blog
 
-最近打算自己搭个博客，这个是从网上扒来的live2d看板，参考了
+最近打算自己搭个博客，这个live2d看板，参考了
 
 https://github.com/galnetwen/Live2D 
 
